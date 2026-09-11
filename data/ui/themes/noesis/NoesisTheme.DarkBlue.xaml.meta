@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.22.0.0">
+	<guid>b0639a1c3108a389ed6b1e4cb3c5b02d9b6628a3</guid>
+	<type>file</type>
+	<hash>3221a02242e8e111a20d123c0bd193574db3d5e156b4932d13aa236656020a43</hash>
+	<runtimes>
+		<runtime id="b0639a1c3108a389ed6b1e4cb3c5b02d9b6628a3" name="NoesisTheme.DarkBlue.xaml" link="0"/>
+	</runtimes>
+</asset>
