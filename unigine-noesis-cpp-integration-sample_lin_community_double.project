@@ -4,7 +4,7 @@
         "debug": false,
         "microprofile_enabled": false
     },
-    "id": "3d557500-822d-402e-82f0-a3c53200b905",
+    "id": "6d818422-3bd2-4fab-afbf-bb1cc956e8ca",
     "project_settings": {
         "addons": [],
         "ai_docs": false,
@@ -21,7 +21,7 @@
         "engine_plugin_vendor": "",
         "launcher_console": true,
         "launcher_gui": false,
-        "name": "unigine-noesis-cpp-integration-sample_lin_community_double",
+        "name": "unigine-noesis-cpp-integration-sample",
         "plugin_name": "",
         "plugin_vendor": "",
         "plugins": [
@@ -40,9 +40,9 @@
         "samples_pack": "",
         "starting_world": "default",
         "sw_distributed": false,
-        "template_id": "template_empty_cpp2.22.0_1cross",
+        "template_id": "template_empty_cpp2.22.0_2cross",
         "template_name": "empty_cpp",
-        "template_version": "2.22.0_1"
+        "template_version": "2.22.0_2"
     },
     "run_settings": {
         "app_name": "",
